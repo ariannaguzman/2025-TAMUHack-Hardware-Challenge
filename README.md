@@ -15,7 +15,6 @@ This project demonstrates a hand-controlled smart lamp, powered by Arduino and M
 - [Circuit Design](#circuit-design)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
