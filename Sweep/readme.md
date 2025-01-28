@@ -10,4 +10,4 @@
 
 LED can be replaced with a light strip or multiple LEDs in parallel.
 
-![Circuit Model](images/Flowlight CIrcuit Arduino.png)
+![Circuit Model](images/flowlight_circuit.png)
