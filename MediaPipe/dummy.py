@@ -1,7 +1,7 @@
 import serial
 import time
 
-# Replace 'COM3' with the port your Arduino is connected to
+# Replace 'COM3' with the port your Arduino is connected to.
 try:
     arduino = serial.Serial(port='COM3', baudrate=9600, timeout=1)
     print("Connected to Arduino on COM3")
